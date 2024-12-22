@@ -1,6 +1,6 @@
 # Databricks Utilities
 
-Nesta página do **Databricks Utilities**, você encontrará informações para aprender a:
+Nesta Link do **Databricks Utilities**, você encontrará informações sobre:
 
 - Listar os utilitários disponíveis.
 - Listar os comandos disponíveis para cada utilitário.
